@@ -21,4 +21,4 @@ An Amazon EC2 instance was launched with Amazon Linux and configured to run Apac
 ## Project Files
 
 - [`index.html`](index.html) — Source code of the hosted website
-- [`About.txt`](About.txt) — Complete project documentation and detailed implementation process.
+- [`about.md`](about.md) — Complete project documentation and detailed implementation process.
